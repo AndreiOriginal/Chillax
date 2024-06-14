@@ -865,13 +865,13 @@ span:not(.spinner-item) {
   border-radius: 30px;
 }
 
-/*chillax appearance theme*/
+/*RnK appearance theme*/
 .theme-dark {
   --cl-appearance: "Dark";
 }
 
 #app-mount .info__755e1 .line_cdcacc:last-child:after {
-  content: "Chillax " var(--cl-appearance) " 🎮";
+  content: "RnK " var(--cl-appearance) " 🎮";
   display: block;
 }
 
@@ -1294,8 +1294,8 @@ svg {
   box-shadow: 0px 0px 10px 2px #ff2d54;
 }
 
-/*chillax squad font and colour change*/
-[href="https\:\/\/github.com/warrayquipsome/Chillax#author"] {
+/*RnK squad font and colour change*/
+[href="https\:\/\/github.com/warrayquipsome/RnK#author"] {
   font-family: "Libre Barcode 128 Text";
   color: rgb(255, 161, 161) !important;
   font-weight: 400;
